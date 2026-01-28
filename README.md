@@ -30,6 +30,7 @@ The analysis is based on a **Star Schema architecture** consisting of three norm
 **PRODUCTS:** Inventory details including Category and Pricing.
 **ORDERS:** The fact table linking Customers to Products with transactional timestamps.
 
+![TechTrendz ER Diagram](erd_diagram.png)
 ---
 
 ## 💡 Key Business Problems & SQL Solutions
