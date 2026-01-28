@@ -7,7 +7,7 @@
 ## 📖 Executive Summary
 **TechTrendz** is a mid-sized online electronics retailer facing challenges with customer retention and inventory management. This project analyzes **24 months of transactional data** to identify high-value customers, pinpoint profitable product lines, and uncover seasonal sales dips.
 
-The insights generated from this SQL analysis are currently being used to restructure the Q3 marketing budget and launch a targeted "Summer Slump" recovery campaign.
+The insights generated from this SQL analysis are currently being used to restructure the Q3 marketing budget and launch a targeted "Winter Slump" recovery campaign.
 
 ---
 
