@@ -30,8 +30,6 @@ The analysis is based on a **Star Schema architecture** consisting of three norm
 **PRODUCTS:** Inventory details including Category and Pricing.
 **ORDERS:** The fact table linking Customers to Products with transactional timestamps.
 
-> 💡 **Pro Tip:** Use [dbdiagram.io](https://dbdiagram.io/) to draw your 3 tables, take a screenshot, and add it here. Recruiters love seeing this.
-
 ---
 
 ## 💡 Key Business Problems & SQL Solutions
